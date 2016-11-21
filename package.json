@@ -1,0 +1,25 @@
+{
+  "name": "sinon-chai-es6",
+  "version": "0.0.1",
+  "description": "A set of examples on ES6 usage with chai and sinon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zen-experiments/sinon-chai-es6.git"
+  },
+  "keywords": [
+    "es6",
+    "ecmascript",
+    "chai",
+    "sinon"
+  ],
+  "author": "Dmitry Nutels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zen-experiments/sinon-chai-es6/issues"
+  },
+  "homepage": "https://github.com/zen-experiments/sinon-chai-es6#readme"
+}
